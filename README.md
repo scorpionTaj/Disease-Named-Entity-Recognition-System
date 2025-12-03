@@ -68,13 +68,14 @@ Disease-NER-System/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - pip (Python package manager)
 
-### Step 1: Clone or Download the Project
+### Step 1: Clone the Project
 
 ```bash
-cd "NLP ET WEB MINING/Projet/Projet 1"
+git clone https://github.com/scorpionTaj/Disease-Named-Entity-Recognition-System.git
+cd Disease-Named-Entity-Recognition-System
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
