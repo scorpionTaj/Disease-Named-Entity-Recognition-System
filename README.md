@@ -133,7 +133,7 @@ The application will open in your default web browser at `http://localhost:8501`
 
 ### Dataset: NCBI Disease Corpus
 
-The model is trained on the [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/), which contains:
+The model is trained on the [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/); the processed dataset used in this project was obtained from the GitHub repository [spyysalo/ncbi-disease](https://github.com/spyysalo/ncbi-disease), which contains:
 
 - **793** PubMed abstracts
 - **6,892** disease mentions
