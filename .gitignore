@@ -2,4 +2,3 @@
 *.pkl
 *.txt
 !requirements.txt
-*.ipynb
