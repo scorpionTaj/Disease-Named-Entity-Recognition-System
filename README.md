@@ -182,7 +182,7 @@ Input Text → Tokenization → Feature Extraction → CRF Model → BIO Tags �
 ### Key Components
 
 1. **Tokenizer**: NLTK `word_tokenize`
-2. **POS Tagger**: NLTK `averaged_perceptron_tagger`
+2. **POS Tagger**: NLTK `averaged_perceptron_tagger_eng`
 3. **Stemmer**: Porter Stemmer
 4. **Model**: sklearn-crfsuite CRF with L-BFGS optimization
 
